@@ -1,0 +1,17 @@
+
+For those using windows :
+
+Creating a virtual environment
+
+python -m venv *environment name*
+
+
+
+Activating virtual environment
+
+venv\Scripts\activate
+
+
+De-activating virtual environment
+
+deactivate
